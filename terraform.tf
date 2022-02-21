@@ -1,0 +1,4 @@
+provide "aws" {
+ profile = "default"
+}
+
